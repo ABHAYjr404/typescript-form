@@ -51,10 +51,12 @@ This project uses **MySQL** as its database backend. You can manage the MySQL da
 
 2. **Install Deps**
 
-   ```bash
+   ``
    cd frontend
    npm install
-
-  ```bash
+   ``
+   
+   ``
    cd backend
    npm install
+   ``
