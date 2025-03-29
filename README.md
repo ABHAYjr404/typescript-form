@@ -50,13 +50,12 @@ This project uses **MySQL** as its database backend. You can manage the MySQL da
    cd typescript-form
 
 2. **Install Deps**
-
-   ``
+- **Frontend:** 
+   ```bash
    cd frontend
    npm install
-   ``
-   
-   ``
+
+- **Backend:** 
+   ```bash
    cd backend
    npm install
-   ``
