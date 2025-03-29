@@ -59,3 +59,8 @@ This project uses **MySQL** as its database backend. You can manage the MySQL da
    ```bash
    cd backend
    npm install
+
+## Screenshots
+
+![](frontend/public/form.png)
+![](frontend/public/mysql.png)
