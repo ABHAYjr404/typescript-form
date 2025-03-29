@@ -55,5 +55,6 @@ This project uses **MySQL** as its database backend. You can manage the MySQL da
    cd frontend
    npm install
 
+  ```bash
    cd backend
    npm install
